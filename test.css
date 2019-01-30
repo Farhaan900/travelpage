@@ -1,0 +1,22 @@
+div {
+
+    border : 1px solid red;
+
+
+}
+
+.main {
+
+    display: flex;
+    height : 400px;
+    flex-grow: 1;
+
+
+}
+
+.main div {
+
+    flex-grow: 1;
+
+
+}
